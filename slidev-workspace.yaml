@@ -1,0 +1,9 @@
+baseUrl: /perf-modeling-lectures
+
+hero:
+  title: Perf modeling lectures
+  description: Perf modeling lectures slides
+
+sidebar:
+  title: "Contents"
+  githubUrl: "https://github.com/cesarus777/perf-modeling-lectures"
