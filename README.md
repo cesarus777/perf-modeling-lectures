@@ -8,3 +8,4 @@ Materials for perfomance modeling lectures
 1. [Models classification](https://cesarus777.github.io/perf-modeling-lectures/02_Models-classification/)
 1. [Performance
 metrics](https://cesarus777.github.io/perf-modeling-lectures/03_Perf-analysis/)
+1. [Discrete event simulation](https://cesarus777.github.io/perf-modeling-lectures/04_Discrete-event-simulation/)
