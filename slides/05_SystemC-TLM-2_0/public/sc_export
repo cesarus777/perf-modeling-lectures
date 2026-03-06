@@ -1,0 +1,11 @@
+// Hierarchical Module with Export
+digraph {
+	rankdir=LR splines=ortho
+	subgraph cluster_parent {
+		color=blue fontcolor=blue label="Parent Module" penwidth=2 style=rounded
+		child [label="Child Module" color=black fillcolor=lightgrey shape=box style=rounded]
+		port [label="" fillcolor=red height=0.2 shape=circle style=filled width=0.2]
+		child -> port [minlen=2 style=invis weight=100]
+	}
+	child -> port [label=sc_export arrowhead=normal fontcolor=red fontsize=12 penwidth=2]
+}

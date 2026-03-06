@@ -9,3 +9,4 @@ Materials for perfomance modeling lectures
 1. [Performance
 metrics](https://cesarus777.github.io/perf-modeling-lectures/03_Perf-analysis/)
 1. [Discrete event simulation](https://cesarus777.github.io/perf-modeling-lectures/04_Discrete-event-simulation/)
+1. [SystemC TLM 2.0](https://cesarus777.github.io/perf-modeling-lectures/05_SystemC-TLM-2_0/)

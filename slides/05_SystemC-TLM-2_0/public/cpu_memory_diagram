@@ -1,0 +1,10 @@
+// CPU-Memory Diagram
+digraph {
+	rankdir=LR
+	CPU [label="CPU
+(initiator)" shape=box]
+	Memory [label="Memory
+(target)" shape=box]
+	CPU -> Memory [label="read(addr, data_ptr)"]
+	Memory -> CPU [label=ok color=blue style=dashed]
+}

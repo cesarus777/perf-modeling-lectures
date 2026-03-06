@@ -1,0 +1,9 @@
+// TLM Socket
+digraph {
+	rankdir=LR
+	A [label="⚙ Compute Module
+(initiator)" fillcolor=black fontcolor=white shape=box style="filled, rounded"]
+	B [label="Target Module
+(target)" fillcolor=black fontcolor=white shape=box style="filled, rounded"]
+	A -> B [label="TLM Socket" arrowhead=normal arrowtail=normal dir=both penwidth=3]
+}
